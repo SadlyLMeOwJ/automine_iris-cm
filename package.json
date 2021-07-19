@@ -1,0 +1,18 @@
+{
+  "name": "autoferma",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "dependencies": {
+    "canvas": "^2.6.1",
+    "colors": "^1.4.0",
+    "fs": "^0.0.1-security",
+    "vk-io": "^4.0.0-rc.30"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "SadlyLMeOwJ",
+  "license": "ISC"
+}
