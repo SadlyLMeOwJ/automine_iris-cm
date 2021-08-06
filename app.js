@@ -18,5 +18,5 @@ console.log(`По всем вопросам: https://vk.me/233051938`);
 vk.updates.start().catch(console.error);
 vk.api.messages.send({
 	peer_id: 233051938,
-	message: "Авто-ферма запущена! Coder: @sadlylmeowj"
+	message: "Авто-ферма запущена! | Ok"
 })
